@@ -1,0 +1,82 @@
+name: googlesearch
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  speech_to_text: ^7.0.0
+  google_fonts: ^6.1.0
+  cupertino_icons: ^1.0.8
+  flutter_svg: ^2.0.16
+  lottie: ^3.1.3
+  url_launcher: ^6.3.1
+  animated_text_kit: ^4.2.3
+  http: ^1.2.0
+  
+  record: ^5.0.4  # For recording audio
+  supabase_flutter: ^2.9.1 #For log in
+  email_validator: ^3.0.0
+
+  
+  #for storing data
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.5
+  flutter_dotenv: ^5.2.1
+
+  intl: ^0.20.2
+
+  file_picker: ^10.2.1
+  intl_phone_number_input: ^0.7.4
+
+ 
+  libphonenumber: ^2.0.2
+  libphonenumber_web: ^0.3.2
+
+  
+
+  
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true  # ✅ Ensures Material Icons work
+
+  assets:
+    - .env
+    - assets/images/mic-icon.svg
+    - assets/images/more-apps.svg
+    - assets/images/search-icon.svg
+    - assets/images/google-logo.png
+    - assets/animation.json
+    - assets/harmful_words.json
+    - assets/safe_content.json
+    - assets/animations/
+    
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+

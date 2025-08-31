@@ -1,0 +1,3600 @@
+{
+ "addiction": {
+  "title": "Understanding Addiction",
+  "description": "Addiction doesn’t define who you are. Whether it’s related to drugs, alcohol, gaming, or anything else, recovery is possible. You deserve compassion, not judgment. Reach out, speak up, and know that you're not alone — there are real people who care and want to help. Take the first step today — even the smallest steps count.",
+  "image": "https://i.imgur.com/4Bc3DvT.jpeg",
+  "resources": [
+    { "label": "SAMHSA National Helpline", "url": "https://www.samhsa.gov/find-help/national-helpline" },
+    { "label": "UNODC Youth", "url": "https://www.unodc.org/unodc/en/youth.html" },
+    { "label": "Your Life Your Voice", "url": "https://www.yourlifeyourvoice.org/pages/tip-99.aspx" },
+    { "label": "Narcotics Anonymous (NA)", "url": "https://na.org/" },
+    { "label": "Lifeline Australia", "url": "https://www.lifeline.org.au/" }
+  ]
+},
+"drugs": {
+  "title": "Understanding the Risks of Drugs",
+  "description": "Drugs can seem like a quick fix, but they often lead to long-term pain. If you're feeling overwhelmed, confused, or pressured, please know you're not alone. There are better ways to cope and real people ready to help you heal. You deserve to live safe, free, and healthy — and that journey starts with understanding.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "NIDA for Teens: What Are Drugs?",
+      "url": "https://teens.drugabuse.gov/drug-facts/what-are-drugs"
+    },
+    {
+      "label": "Drug Misuse and Teens (CDC)",
+      "url": "https://www.cdc.gov/healthyyouth/substance-use/index.htm"
+    },
+    {
+      "label": "How to Say No to Drugs",
+      "url": "https://www.justsaynocampaign.org/"
+    },
+    {
+      "label": "Recovery & Peer Support (SAMHSA)",
+      "url": "https://www.samhsa.gov/find-help/recovery"
+    },
+    {
+      "label": "Talk to Someone – Your Life Your Voice",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-99.aspx"
+    },
+    {
+      "label": "Addiction Treatment Near You (Find Help)",
+      "url": "https://www.findtreatment.gov/"
+    }
+  ]
+},
+
+  "violence": {
+  "title": "Choosing Peace Over Violence",
+  "description": "Violence hurts everyone — the victim, the witness, and the person causing harm. If you're surrounded by violence or feeling pressured, it's not your fault. You have the right to be safe and supported. Let’s replace harm with healing and reach out for help together.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Understanding Youth Violence (CDC)",
+      "url": "https://www.cdc.gov/violenceprevention/youthviolence/index.html"
+    },
+    {
+      "label": "UNICEF – Ending Violence Against Children",
+      "url": "https://www.unicef.org/protection/violence-against-children"
+    },
+    {
+      "label": "Peace First – Youth Peacebuilders",
+      "url": "https://www.peacefirst.org/"
+    },
+    {
+      "label": "Stop the Violence (APA)",
+      "url": "https://www.apa.org/topics/violence"
+    },
+    {
+      "label": "Preventing Domestic Violence (NCADV)",
+      "url": "https://ncadv.org/learn"
+    }
+  ]
+}, 
+"depression": {
+  "title": "You’re Not Alone: Understanding Depression",
+  "description": "Depression is real and serious — but it's also treatable. If you’re feeling empty, tired, or like nothing matters, know this: you are not broken. You are not a burden. There is help. There is healing. And there is hope.",
+  "image": "https://i.imgur.com/OtEw8nW.jpeg",
+  "resources": [
+    {
+      "label": "What Is Depression? (Mayo Clinic)",
+      "url": "https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes"
+    },
+    {
+      "label": "Teen Depression Guide (NIMH)",
+      "url": "https://www.nimh.nih.gov/health/publications/teen-depression"
+    },
+    {
+      "label": "Depression Support (Mental Health America)",
+      "url": "https://www.mhanational.org/conditions/depression"
+    },
+    {
+      "label": "Talk to a Counselor (7 Cups)",
+      "url": "https://www.7cups.com/"
+    },
+    {
+      "label": "Text HOME to 741741 – Crisis Text Line",
+      "url": "https://www.crisistextline.org/"
+    }
+  ]
+},
+
+  "selfharm": {
+  "title": "You Deserve Care, Not Pain",
+  "description": "If you're hurting yourself to deal with pain, you're not alone — and you are not weak. You're trying to survive. But there are safer ways. Healing starts with one step: reaching out. People care. You are worthy of help and happiness.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Self-Harm: What to Know (Mind UK)",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-harm/"
+    },
+    {
+      "label": "Self-Injury Recovery (SIOutreach)",
+      "url": "https://sioutreach.org/"
+    },
+    {
+      "label": "How to Help a Friend (Mental Health America)",
+      "url": "https://mhanational.org/what-do-if-you-are-worried-about-someone"
+    },
+    {
+      "label": "Support Chatrooms (7 Cups)",
+      "url": "https://www.7cups.com/"
+    },
+    {
+      "label": "Crisis Text Line (Text HOME to 741741)",
+      "url": "https://www.crisistextline.org/"
+    }
+  ]
+},
+"suicide": {
+  "title": "You Matter. Always.",
+  "description": "Suicidal thoughts are heavy, but you don't have to carry them alone. You are not weak for struggling. You are human. There are people who will listen, care, and walk this path with you. Don’t wait. Help is closer than you think.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "988 Suicide & Crisis Lifeline (US)",
+      "url": "https://988lifeline.org/"
+    },
+    {
+      "label": "International Suicide Hotlines",
+      "url": "https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines"
+    },
+    {
+      "label": "Crisis Text Line (24/7)",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "How to Help a Friend (TeensHealth)",
+      "url": "https://kidshealth.org/en/teens/helping-suicidal-friend.html"
+    },
+    {
+      "label": "Suicide Prevention Resource Center",
+      "url": "https://sprc.org/"
+    }
+  ]
+},
+
+ "porn": {
+  "title": "Understanding Online Temptations",
+  "description": "If you're struggling with pornography or have questions about it, you're not alone. It's okay to be curious, but it's also okay to want more respectful, meaningful connections. Healthy relationships begin with self-respect and support — not shame.",
+  "image": "https://i.imgur.com/UGGoP4u.jpeg",
+  "resources": [
+    {
+      "label": "Love is Respect – Healthy Relationships",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "Fight the New Drug – Facts About Porn",
+      "url": "https://fightthenewdrug.org/"
+    },
+    {
+      "label": "Overcoming Porn Addiction (Healthline)",
+      "url": "https://www.healthline.com/health/porn-addiction"
+    },
+    {
+      "label": "Your Life Your Voice – Real Support",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "7 Cups – Anonymous Support",
+      "url": "https://www.7cups.com/"
+    }
+  ]
+},
+
+ "bullying": {
+  "title": "Speak Up, You Deserve Respect",
+  "description": "Being bullied can make you feel powerless or alone — but your voice matters. You don’t have to go through this silently. There are people, tools, and communities that want to protect and support you. Let’s stand up, together.",
+  "image": "https://i.imgur.com/49Nzawy.jpeg",
+  "resources": [
+    {
+      "label": "StopBullying.gov",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Stomp Out Bullying",
+      "url": "https://www.stompoutbullying.org/"
+    },
+    {
+      "label": "UNICEF – End Violence in Schools",
+      "url": "https://www.unicef.org/education/end-violence-in-schools"
+    },
+    {
+      "label": "Cyberbullying Help (Childnet)",
+      "url": "https://www.childnet.com/help-and-advice/cyberbullying/"
+    },
+    {
+      "label": "Child Helpline International",
+      "url": "https://childhelplineinternational.org/"
+    }
+  ]
+},
+
+  "rape": {
+  "title": "You Are Not Alone",
+  "description": "If you've been a victim of sexual violence, it’s not your fault. Ever. You are brave, and your story matters. You have the right to feel safe again — and there are places ready to support and protect you.",
+  "image": "https://i.imgur.com/GSU7pWb.jpeg",
+  "resources": [
+    {
+      "label": "RAINN – Sexual Assault Support",
+      "url": "https://www.rainn.org/"
+    },
+    {
+      "label": "UN Women – Ending Sexual Violence",
+      "url": "https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures"
+    },
+    {
+      "label": "Child Helpline Intl",
+      "url": "https://childhelplineinternational.org/"
+    },
+    {
+      "label": "Support After Rape (Safe Horizon)",
+      "url": "https://www.safehorizon.org/get-help/rape-sexual-assault/"
+    },
+    {
+      "label": "Victim Connect Resource Center",
+      "url": "https://victimconnect.org/"
+    }
+  ]
+},
+"mentalhealth": {
+  "title": "Mental Health Is Health",
+  "description": "Just like your body, your mind deserves care, rest, and kindness. Whether you're feeling anxious, lost, or just not yourself — you're not broken. You’re human. And mental health support is here for you.",
+  "image": "https://i.imgur.com/Eu6HsSr.jpeg",
+  "resources": [
+    {
+      "label": "Mental Health Basics (WHO)",
+      "url": "https://www.who.int/health-topics/mental-health"
+    },
+    {
+      "label": "Mind – Mental Health Charity",
+      "url": "https://www.mind.org.uk/"
+    },
+    {
+      "label": "Mental Health America – Get Help",
+      "url": "https://mhanational.org/get-involved/contact-us"
+    },
+    {
+      "label": "Your Life Your Voice – Youth Support",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "NIMH – Resources for Teens",
+      "url": "https://www.nimh.nih.gov/health/publications/taking-control-of-your-mental-health"
+    }
+  ]
+},
+"aggression": {
+  "title": "Channeling Aggression Positively",
+  "description": "Feeling angry or aggressive can be overwhelming, but it's a normal human emotion. What matters is how we deal with it. You can learn to express yourself without hurting others or yourself. Support is here to help you manage anger and turn it into strength.",
+  "image": "https://i.imgur.com/ilwc2RP.jpeg",
+  "resources": [
+    {
+      "label": "Managing Anger and Aggression (APA)",
+      "url": "https://www.apa.org/topics/anger/control"
+    },
+    {
+      "label": "Anger Management for Teens (Verywell Mind)",
+      "url": "https://www.verywellmind.com/anger-management-for-teens-4173215"
+    },
+    {
+      "label": "Learn to Cope – Youth Anger Resources",
+      "url": "https://www.learntocope.org/"
+    },
+    {
+      "label": "NAMI – Dealing With Anger",
+      "url": "https://www.nami.org/Blogs/NAMI-Blog/April-2019/Dealing-with-Anger"
+    }
+  ]
+},
+
+"alcohol": {
+  "title": "Understanding Alcohol Use and Abuse",
+  "description": "Drinking may look fun in movies or parties, but alcohol can seriously affect your brain, body, and choices. If you're feeling pressure to drink or want help to stop, you're not alone. There are safe, caring places to turn to.",
+  "image": "https://i.imgur.com/s9Z7W2B.jpeg",
+  "resources": [
+    {
+      "label": "Alcohol and Teens (CDC)",
+      "url": "https://www.cdc.gov/alcohol/fact-sheets/underage-drinking.htm"
+    },
+    {
+      "label": "NIAAA – Facts About Alcohol",
+      "url": "https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets"
+    },
+    {
+      "label": "Talk It Out – Support for Youth",
+      "url": "https://www.talkitoutnc.org/"
+    },
+    {
+      "label": "SAMHSA – Alcohol Treatment Locator",
+      "url": "https://www.findtreatment.gov/"
+    },
+    {
+      "label": "Your Life Your Voice – Coping Tips",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+
+"anal": {
+  "title": "Understanding Body Safety and Respect",
+  "description": "It’s important to have questions about your body, but it’s even more important to get information from safe and respectful sources. No one should pressure you into doing anything. Your body is yours, and learning about boundaries and consent can protect you.",
+  "image": "https://i.imgur.com/deGRkxX.png",
+  "resources": [
+    {
+      "label": "Love is Respect – Healthy Boundaries",
+      "url": "https://www.loveisrespect.org/healthy-relationships/boundaries/"
+    },
+    {
+      "label": "Safe Touch and Consent (RAINN)",
+      "url": "https://www.rainn.org/articles/what-is-consent"
+    },
+    {
+      "label": "UNICEF – Child Protection",
+      "url": "https://www.unicef.org/protection/child-protection"
+    },
+    {
+      "label": "Sexual Health Resources for Youth (Amaze)",
+      "url": "https://amaze.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Body Respect",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+
+"assault": {
+  "title": "Speak Out Against Assault",
+  "description": "If someone hurt or touched you without consent, it’s not your fault. You are brave, and you deserve to be safe. Speaking out and asking for help can begin your healing. There are people who care and want to support you right now.",
+  "image": "https://i.imgur.com/PdH44We.jpeg",
+  "resources": [
+    {
+      "label": "RAINN – Sexual Assault Resources",
+      "url": "https://www.rainn.org/"
+    },
+    {
+      "label": "Safe Horizon – Victim Support",
+      "url": "https://www.safehorizon.org/"
+    },
+    {
+      "label": "National Sexual Violence Resource Center",
+      "url": "https://www.nsvrc.org/"
+    },
+    {
+      "label": "Child Helpline Intl",
+      "url": "https://childhelplineinternational.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Share & Heal",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+"dark web": {
+  "title": "Understanding the Dangers of the Dark Web",
+  "description": "The dark web might seem mysterious or exciting, but it often hides illegal and harmful activity. Accessing it can put your privacy and safety at serious risk. Stay curious, but stay safe — there are healthier, legal ways to explore technology and information.",
+  "image": "https://i.imgur.com/0kPoZqc.jpeg",
+  "resources": [
+    {
+      "label": "Dark Web Explained (Kaspersky)",
+      "url": "https://www.kaspersky.com/resource-center/threats/what-is-the-dark-web"
+    },
+    {
+      "label": "Cyber Safety for Teens (SafeTeens)",
+      "url": "https://www.safeteens.org/internet-safety/"
+    },
+    {
+      "label": "Keeping Kids Safe Online (FBI Tips)",
+      "url": "https://www.fbi.gov/resources/parents"
+    }
+  ]
+},
+"death": {
+  "title": "Coping with Thoughts About Death",
+  "description": "Thinking about death can be overwhelming. You may feel lost, scared, or alone. But there is help. Talking to someone — a friend, counselor, or support line — can make all the difference. You're not alone, and your feelings are valid. Help is here.",
+  "image": "https://i.imgur.com/6DSUQXs.jpeg",
+  "resources": [
+    {
+      "label": "Crisis Text Line",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "Suicide Prevention Lifeline",
+      "url": "https://988lifeline.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Coping Tips",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-99.aspx"
+    },
+    {
+      "label": "Mental Health America – Grief Resources",
+      "url": "https://www.mhanational.org/recognizing-and-coping-loss"
+    }
+  ]
+},
+"decapitate": {
+  "title": "Understanding and Managing Violent Thoughts",
+  "description": "Extreme or violent thoughts can be signs of deeper emotional struggles. If you're experiencing intense anger, fear, or distress, please know there's nothing wrong with asking for help. Talking to a trusted adult or counselor can lead to healing and peace.",
+  "image": "https://i.imgur.com/ctzZQ3m.png",
+  "resources": [
+    {
+      "label": "Talking to Someone – Your Life Your Voice",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-99.aspx"
+    },
+    {
+      "label": "SAMHSA Behavioral Health Support",
+      "url": "https://www.samhsa.gov/find-help/national-helpline"
+    },
+    {
+      "label": "Mind – Understanding Anger",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/"
+    }
+  ]
+},
+"die": {
+  "title": "You’re Not Alone – Hope and Help Exist",
+  "description": "If you're feeling like life is too much right now, please talk to someone. It might not feel like it, but things can get better. Your life matters, and help is available — anytime, anywhere. You are not alone.",
+  "image": "https://i.imgur.com/Fhs01BL.jpeg",
+  "resources": [
+    {
+      "label": "988 Suicide & Crisis Lifeline",
+      "url": "https://988lifeline.org/"
+    },
+    {
+      "label": "Crisis Text Line",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "Kids Helpline (Australia)",
+      "url": "https://kidshelpline.com.au/"
+    },
+    {
+      "label": "Your Life Your Voice",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+"disgusting": {
+  "title": "Feeling Rejected or Unworthy?",
+  "description": "Sometimes we feel like we aren’t good enough or think negatively about ourselves. If you’ve ever felt ‘disgusting’ or ashamed, know that your feelings are real — but they don’t define you. You're worthy of love and respect, just as you are.",
+  "image": "https://i.imgur.com/xmr22Z3.jpeg",
+  "resources": [
+    {
+      "label": "Self-Esteem Support – Mind UK",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-esteem/"
+    },
+    {
+      "label": "Your Life Your Voice – Positive Self-Talk",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-21.aspx"
+    },
+    {
+      "label": "Mental Health America – Self-Compassion",
+      "url": "https://screening.mhanational.org/content/what-self-compassion/"
+    }
+  ]
+},
+"end my life": {
+  "title": "Please Don't Give Up — Help Is Here",
+  "description": "If you’re thinking about ending your life, please pause and reach out. You matter more than you know. Talk to a counselor, text a helpline, or open up to someone. Help is available and recovery is possible — one step at a time.",
+  "image": "https://i.imgur.com/e1Bu279.jpeg",
+  "resources": [
+    {
+      "label": "988 Suicide & Crisis Lifeline",
+      "url": "https://988lifeline.org/"
+    },
+    {
+      "label": "Crisis Text Line – Free, 24/7",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "Talk to Someone Now – Befrienders",
+      "url": "https://www.befrienders.org/"
+    },
+    {
+      "label": "Samaritans (UK)",
+      "url": "https://www.samaritans.org/"
+    }
+  ]
+},
+"escort": {
+  "title": "Understanding Risky Online Content",
+  "description": "Some websites or terms can lead you to unsafe or inappropriate content that may affect your well-being. It’s important to recognize when content doesn’t align with healthy values. You deserve safe spaces, guidance, and trustworthy information.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Online Exploitation – Internet Safety 101",
+      "url": "https://internetsafety101.org/sexploitation"
+    },
+    {
+      "label": "Protecting Yourself Online (Common Sense)",
+      "url": "https://www.commonsense.org/education/articles/internet-safety"
+    },
+    {
+      "label": "Digital Boundaries for Teens (SafeTeens)",
+      "url": "https://www.safeteens.org/"
+    }
+  ]
+},
+"execute": {
+  "title": "Coping with Violent or Disturbing Thoughts",
+  "description": "If you're thinking about violence or feeling trapped in disturbing thoughts, it’s important to talk to someone. These feelings may come from pain or trauma — and support is available to help you process and heal safely.",
+  "image": "https://i.imgur.com/NnGNbxf.jpeg",
+  "resources": [
+    {
+      "label": "Youth Mental Health Support – SAMHSA",
+      "url": "https://www.samhsa.gov/children"
+    },
+    {
+      "label": "Talking to Someone – Your Life Your Voice",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-99.aspx"
+    },
+    {
+      "label": "Mind – Anger and Violent Thoughts",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/"
+    }
+  ]
+},
+"execution": {
+  "title": "Protecting Your Mind from Harmful Content",
+  "description": "Some content can be deeply disturbing and affect your peace of mind. If you're feeling shaken, curious, or scared after seeing violent ideas or imagery, you're not alone. It's okay to step away, talk to someone, and protect your mental health.",
+  "image": "https://i.imgur.com/NnGNbxf.jpeg",
+  "resources": [
+    {
+      "label": "Coping with Trauma (Mental Health America)",
+      "url": "https://www.mhanational.org/trauma"
+    },
+    {
+      "label": "Safe Online Exploration – Common Sense Media",
+      "url": "https://www.commonsensemedia.org/privacy-and-internet-safety"
+    },
+    {
+      "label": "Talking to a Trusted Adult (SafeTeens)",
+      "url": "https://www.safeteens.org/"
+    }
+  ]
+},
+"explode": {
+  "title": "Feeling Like You're About to Burst?",
+  "description": "Strong emotions like anger, fear, or anxiety can build up fast. You might feel like you're about to 'explode.' But you’re not alone — there are safe ways to let those feelings out, and real people who want to help.",
+  "image": "https://i.imgur.com/NnGNbxf.jpeg",
+  "resources": [
+    {
+      "label": "Coping with Anger – Mind UK",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/"
+    },
+    {
+      "label": "Your Life Your Voice – Journaling Tips",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-32.aspx"
+    },
+    {
+      "label": "Teen Mental Health Resources – SAMHSA",
+      "url": "https://www.samhsa.gov/children"
+    }
+  ]
+},
+"exploit": {
+  "title": "Protect Yourself from Exploitation",
+  "description": "Being taken advantage of — online or offline — is never okay. If someone is pressuring, manipulating, or hurting you, please speak up. There are people and organizations who will listen, believe you, and help keep you safe.",
+  "image": "https://i.imgur.com/NnGNbxf.jpeg",
+  "resources": [
+    {
+      "label": "Online Exploitation – Internet Safety 101",
+      "url": "https://internetsafety101.org/sexploitation"
+    },
+    {
+      "label": "CyberTipline (Report Abuse)",
+      "url": "https://report.cybertip.org/"
+    },
+    {
+      "label": "RAINN – Preventing Abuse",
+      "url": "https://www.rainn.org/articles/preventing-sexual-abuse"
+    }
+  ]
+},
+"faggot": {
+  "title": "Words Can Hurt — But You Deserve Respect",
+  "description": "If you've been called names, bullied, or targeted because of who you are — it’s not your fault. You deserve dignity, safety, and love. Don't carry those wounds alone — there are people who stand with you and are ready to help.",
+  "image": "https://i.imgur.com/Fhs01BL.jpeg",
+  "resources": [
+    {
+      "label": "The Trevor Project – LGBTQ Youth Support",
+      "url": "https://www.thetrevorproject.org/"
+    },
+    {
+      "label": "StopBullying.gov – LGBTQ Resources",
+      "url": "https://www.stopbullying.gov/bullying/lgbtq"
+    },
+    {
+      "label": "It Gets Better Project",
+      "url": "https://itgetsbetter.org/"
+    }
+  ]
+},
+"fetish": {
+  "title": "Navigating Curiosity Safely",
+  "description": "As you grow, it's natural to have questions about relationships, attraction, or your body. But some content can confuse or harm you. Talk to someone you trust. Real learning should come from healthy, age-appropriate, respectful sources.",
+  "image": "https://i.imgur.com/Fhs01BL.jpeg",
+  "resources": [
+    {
+      "label": "Love is Respect – Healthy Relationships",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "Kids Health – About Puberty and Body Changes",
+      "url": "https://kidshealth.org/"
+    },
+    {
+      "label": "Planned Parenthood – Relationships & Consent",
+      "url": "https://www.plannedparenthood.org/learn/relationships"
+    }
+  ]
+},
+"kill": {
+  "title": "Violent Thoughts? You're Not Alone",
+  "description": "If you're feeling angry, lost, or thinking about hurting someone or yourself, it doesn't make you a bad person — it means you're overwhelmed. Please talk to someone. There are safe spaces and people who will listen without judgment.",
+  "image": "https://i.imgur.com/BEQju4X.jpeg",
+  "resources": [
+    {
+      "label": "Talking to Someone – Your Life Your Voice",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-99.aspx"
+    },
+    {
+      "label": "Mental Health Support – SAMHSA",
+      "url": "https://www.samhsa.gov/mental-health"
+    },
+    {
+      "label": "Mind – Managing Violent Thoughts",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/anger/"
+    }
+  ]
+},
+
+"hack": {
+  "title": "Understanding Cyber Safety & Ethics",
+  "description": "Hacking might seem exciting or clever, but it can harm people and break trust. Real tech skills can build the world, not break it. Want to learn to code and build cool stuff ethically? There are amazing resources waiting for you!",
+  "image": "https://i.imgur.com/BEQju4X.jpeg",
+  "resources": [
+    {
+      "label": "Cyber Ethics for Kids – FBI Safe Online Surfing",
+      "url": "https://sos.fbi.gov/"
+    },
+    {
+      "label": "Intro to Cybersecurity – Cisco Academy",
+      "url": "https://www.netacad.com/courses/cybersecurity/intro-cybersecurity"
+    },
+    {
+      "label": "Common Sense Media – Internet Safety",
+      "url": "https://www.commonsense.org/education/articles/internet-safety"
+    }
+  ]
+},
+
+"incest": {
+  "title": "Recognizing Harmful Content",
+  "description": "Some online content crosses important boundaries and can be emotionally confusing or harmful. If you’ve come across something that feels wrong, talk to someone. You deserve clarity, support, and spaces that respect you.",
+  "image": "https://i.imgur.com/IOB7SfO.jpeg",
+  "resources": [
+    {
+      "label": "RAINN – Preventing Sexual Abuse",
+      "url": "https://www.rainn.org/articles/preventing-sexual-abuse"
+    },
+    {
+      "label": "Child Helpline International",
+      "url": "https://childhelplineinternational.org/"
+    },
+    {
+      "label": "Safe Online Boundaries – Internet Safety 101",
+      "url": "https://internetsafety101.org/sexualpredators"
+    }
+  ]
+},
+
+"isolation": {
+  "title": "Feeling Alone? You’re Not Invisible",
+  "description": "Loneliness can feel heavy, but it doesn’t define you. People care. Whether you're struggling with friends, family, or just want someone to hear you — you’re not alone, and help is just a step away.",
+  "image": "https://i.imgur.com/M1vSli2.png",
+  "resources": [
+    {
+      "label": "Crisis Text Line – Free 24/7 Support",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "7 Cups – Free Online Support",
+      "url": "https://www.7cups.com/"
+    },
+    {
+      "label": "Mental Health America – Loneliness",
+      "url": "https://mhanational.org/loneliness"
+    }
+  ]
+},
+ "fuck": {
+    "title": "Respecting Others Starts with Language",
+    "description": "Language reflects how we see and treat the world. Words that hurt, offend, or disrespect others can create division. Learn how to express strong emotions without disrespect — your voice matters, and respectful speech builds stronger communities.",
+    "image": "https://i.imgur.com/XH0dksx.png",
+    "resources": [
+      {
+        "label": "Respectful Communication (UNESCO)",
+        "url": "https://en.unesco.org/respectcommunication"
+      },
+      {
+        "label": "Why Language Matters (ADL)",
+        "url": "https://www.adl.org/resources/tools-and-strategies/words-matter"
+      },
+      {
+        "label": "Better Ways to Express Anger",
+        "url": "https://kidshelpline.com.au/teens/issues/managing-anger"
+      }
+    ]
+  },
+
+  "gun": {
+    "title": "Understanding Gun Safety and Violence Prevention",
+    "description": "Guns can cause permanent harm and pain. If you're feeling unsafe or angry, there are peaceful and powerful ways to protect yourself and others. Let's talk about resolving conflict without violence — your safety and others' lives matter.",
+    "image": "https://i.imgur.com/cZ7hQ3n.jpeg",
+    "resources": [
+      {
+        "label": "Gun Violence Prevention (Everytown)",
+        "url": "https://everytownresearch.org/"
+      },
+      {
+        "label": "Safe Firearm Storage Tips (CDC)",
+        "url": "https://www.cdc.gov/ncipc/dvp/Firearm_Safety.htm"
+      },
+      {
+        "label": "Resolve Conflicts Peacefully",
+        "url": "https://www.peacefirst.org/"
+      }
+    ]
+  },
+
+  "hack tool": {
+    "title": "Using Technology Responsibly",
+    "description": "Using software to hack or access other people’s information is harmful and illegal. Technology should be used to build, help, and create. You can be a digital hero — learn ethical hacking and use your skills for good!",
+    "image": "https://i.imgur.com/o2ro5t8.jpeg",
+    "resources": [
+      {
+        "label": "Ethical Hacking Explained (IBM Skills)",
+        "url": "https://www.ibm.com/topics/ethical-hacking"
+      },
+      {
+        "label": "Learn Cybersecurity the Right Way",
+        "url": "https://www.cybrary.it/"
+      },
+      {
+        "label": "Stay Safe Online (National Cybersecurity Alliance)",
+        "url": "https://staysafeonline.org/"
+      }
+    ]
+  },
+
+  "hacked": {
+    "title": "If You've Been Hacked, You're Not Alone",
+    "description": "Cyberattacks can be scary, but there are steps to protect yourself. Learn how to secure your accounts, recover safely, and build better digital habits. It’s okay to ask for help — digital safety is a journey.",
+    "image": "https://i.imgur.com/o2ro5t8.jpeg",
+    "resources": [
+      {
+        "label": "Recovering from a Hack (FTC)",
+        "url": "https://consumer.ftc.gov/articles/recovering-hacked-email"
+      },
+      {
+        "label": "Digital Safety Checklist (Google)",
+        "url": "https://safety.google/security-tips/"
+      },
+      {
+        "label": "Online Privacy Tips",
+        "url": "https://www.staysafeonline.org/stay-safe-online/privacy/"
+      }
+    ]
+  },
+
+  "hang": {
+    "title": "You’re Not Alone – Talk to Someone Now",
+    "description": "If you're feeling overwhelmed or thinking of harming yourself, please know that there are people who care about you and want to help. These feelings can pass, and there is always hope. Talking to someone can change everything.",
+    "image": "https://i.imgur.com/4LYovp3.jpeg",
+    "resources": [
+      {
+        "label": "Suicide Prevention Lifeline",
+        "url": "https://988lifeline.org/"
+      },
+      {
+        "label": "Crisis Text Line (Free 24/7 Support)",
+        "url": "https://www.crisistextline.org/"
+      },
+      {
+        "label": "Your Life Your Voice",
+        "url": "https://www.yourlifeyourvoice.org/"
+      },
+      {
+        "label": "Kids Helpline (Teens and Youth)",
+        "url": "https://kidshelpline.com.au/teens/issues/suicide"
+      }
+    ]
+  },
+ 
+"harass": {
+  "title": "Dealing with Harassment",
+  "description": "Harassment is never your fault. Whether it's online or in person, there are safe ways to report it and seek support. You deserve to feel respected, safe, and heard.",
+  "image": "https://i.imgur.com/jQP5vRF.jpeg",
+  "resources": [
+    {
+      "label": "StopBullying.gov – Harassment Info",
+      "url": "https://www.stopbullying.gov/what-is-bullying/types-of-bullying"
+    },
+    {
+      "label": "UN Women – Support and Safety",
+      "url": "https://www.unwomen.org/en"
+    },
+    {
+      "label": "Cyber Civil Rights Initiative",
+      "url": "https://www.cybercivilrights.org/"
+    },
+    {
+      "label": "RAINN – Harassment Help",
+      "url": "https://www.rainn.org/articles/stalking-and-harassment"
+    }
+  ]
+},
+"harassment": {
+  "title": "Speak Out Against Harassment",
+  "description": "Everyone deserves to feel safe and valued. If you're facing harassment, you’re not alone. Many have walked this path and found safety, healing, and justice. Reach out — help is available.",
+  "image": "https://i.imgur.com/jQP5vRF.jpeg",
+  "resources": [
+    {
+      "label": "Love is Respect – Healthy Relationships",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "National Sexual Violence Resource Center",
+      "url": "https://www.nsvrc.org/"
+    },
+    {
+      "label": "Youth Against Harassment Toolkit",
+      "url": "https://www.unicef.org/end-violence"
+    },
+    {
+      "label": "Safe Horizon",
+      "url": "https://www.safehorizon.org/"
+    }
+  ]
+},
+"hardcore": {
+  "title": "Navigating Online Content",
+  "description": "It's easy to stumble upon intense or explicit content online. If something makes you uncomfortable or confused, it's okay to step away. Talk to someone you trust and protect your digital space.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Internet Matters – Age-Appropriate Content",
+      "url": "https://www.internetmatters.org/issues/inappropriate-content/"
+    },
+    {
+      "label": "Common Sense Media – Digital Boundaries",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Coping Tips",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Childnet International",
+      "url": "https://www.childnet.com/"
+    }
+  ]
+},
+"hate speech": {
+  "title": "Choose Kindness Over Hate",
+  "description": "Hate speech hurts. Whether you're a target or a bystander, you have the power to stand up for respect and unity. Let’s build a safer, kinder online world together.",
+  "image": "https://i.imgur.com/DEZ78m2.jpeg",
+  "resources": [
+    {
+      "label": "UNESCO – Say No to Hate Speech",
+      "url": "https://en.unesco.org/themes/fostering-rights-inclusion/hate-speech"
+    },
+    {
+      "label": "Stop Hate UK",
+      "url": "https://www.stophateuk.org/"
+    },
+    {
+      "label": "Anti-Defamation League – Hate Speech Explained",
+      "url": "https://www.adl.org/"
+    },
+    {
+      "label": "No Hate Speech Movement",
+      "url": "https://www.coe.int/en/web/no-hate-campaign"
+    }
+  ]
+},
+"heroin": {
+  "title": "Understanding the Dangers of Heroin",
+  "description": "Heroin is a highly addictive and dangerous drug that can destroy lives. If you're struggling or know someone who is, you are not alone. Recovery is possible, and help is available right now.",
+  "image": "https://i.imgur.com/dt2GVtV.jpeg",
+  "resources": [
+    {
+      "label": "NIDA – Heroin Facts",
+      "url": "https://nida.nih.gov/publications/drugfacts/heroin"
+    },
+    {
+      "label": "SAMHSA – Substance Use Help",
+      "url": "https://www.samhsa.gov/find-help/national-helpline"
+    },
+    {
+      "label": "Partnership to End Addiction",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "Recovery Resources (FindTreatment.gov)",
+      "url": "https://findtreatment.gov/"
+    }
+  ]
+},
+"hooker": {
+  "title": "Understanding Exploitation and Respect",
+  "description": "Everyone deserves respect and dignity. Instead of judging or labeling others, let’s work to understand the deeper issues behind exploitation. Support, not stigma, creates real change.",
+  "image": "https://i.imgur.com/jQP5vRF.jpeg",
+  "resources": [
+    {
+      "label": "UN Women – Ending Exploitation",
+      "url": "https://www.unwomen.org/en/what-we-do/ending-violence-against-women"
+    },
+    {
+      "label": "Polaris – Human Trafficking Help",
+      "url": "https://polarisproject.org/"
+    },
+    {
+      "label": "Love146 – Child Exploitation Prevention",
+      "url": "https://love146.org/"
+    },
+    {
+      "label": "Equality Now – Justice for All",
+      "url": "https://www.equalitynow.org/"
+    }
+  ]
+},
+"hostage": {
+  "title": "If You or Someone Is in Danger",
+  "description": "Hostage situations are extremely serious and should always be reported to authorities immediately. If you're worried about safety, speak to a trusted adult or call emergency services.",
+  "image": "https://i.imgur.com/DEZ78m2.jpeg",
+  "resources": [
+    {
+      "label": "FBI Crisis Negotiation Unit",
+      "url": "https://www.fbi.gov/services/cirg"
+    },
+    {
+      "label": "UNODC – Crime Prevention Resources",
+      "url": "https://www.unodc.org/"
+    },
+    {
+      "label": "Emergency Help (Global List)",
+      "url": "https://www.befrienders.org/other-helpline-organizations"
+    },
+    {
+      "label": "Child Helpline International",
+      "url": "https://childhelplineinternational.org/"
+    }
+  ]
+},
+"hurt myself": {
+  "title": "There Are Better Ways to Cope",
+  "description": "If you're thinking about hurting yourself, please know that there is hope, healing, and help. You are not alone in this. Talking to someone can be the first step toward a better tomorrow.",
+  "image": "https://i.imgur.com/Fhs01BL.jpeg",
+  "resources": [
+    {
+      "label": "Self-Injury Outreach & Support",
+      "url": "https://sioutreach.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Coping Tools",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Crisis Text Line",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "Lifeline – Get Help",
+      "url": "https://988lifeline.org/"
+    }
+  ]
+},
+"illegal porn": {
+  "title": "Report and Avoid Illegal Content",
+  "description": "Illegal content harms real people and breaks the law. If you've come across something disturbing or illegal, report it immediately. Protect yourself and others — never share or search for such material.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "National Center for Missing & Exploited Children",
+      "url": "https://www.missingkids.org/gethelpnow/cybertipline"
+    },
+    {
+      "label": "INHOPE – Report Illegal Content",
+      "url": "https://www.inhope.org/"
+    },
+    {
+      "label": "Internet Watch Foundation (UK)",
+      "url": "https://www.iwf.org.uk/"
+    },
+    {
+      "label": "Child Exploitation and Online Protection Command",
+      "url": "https://www.ceop.police.uk/Safety-Centre/"
+    }
+  ]
+},
+
+"knife": {
+  "title": "You Deserve Safety – Not Pain",
+  "description": "If you've thought of using a knife to hurt yourself or someone else, it’s a moment to pause — not act. These feelings often stem from overwhelming pain, not from who you truly are. There is always a path to safety and healing. It’s okay to feel broken, but you’re not alone. Please don’t keep the pain inside. There are kind people who understand and want to help you put the pieces back together. Reach out — your life matters more than you know.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Self-Harm Support – Mind UK",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-harm/"
+    },
+    {
+      "label": "Your Life Your Voice – Coping Without Harm",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-4.aspx"
+    },
+    {
+      "label": "Safe Alternatives – Self-Injury Outreach",
+      "url": "https://sioutreach.org/"
+    },
+    {
+      "label": "Crisis Text Line (For Immediate Help)",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "Find a Counselor – MHA Screening",
+      "url": "https://screening.mhanational.org/"
+    }
+  ]
+},
+"lesbian": {
+  "title": "Understanding & Respecting LGBTQ+ Identity",
+  "description": "Being lesbian is not something to be judged or feared — it’s simply one part of a person’s identity. If you’re exploring your feelings or trying to understand others, that’s okay. You are not alone in your journey. Everyone deserves to be treated with dignity, respect, and love, regardless of who they love. If you’re struggling with shame, confusion, or bullying, please know: your feelings are valid, and safe spaces do exist. Support, love, and acceptance are within reach.",
+  "image": "https://i.imgur.com/RLYFShp.jpeg",
+  "resources": [
+    {
+      "label": "The Trevor Project (LGBTQ+ Support)",
+      "url": "https://www.thetrevorproject.org/"
+    },
+    {
+      "label": "GLAAD – LGBTQ+ Education",
+      "url": "https://www.glaad.org/"
+    },
+    {
+      "label": "PFLAG – Family Support",
+      "url": "https://pflag.org/"
+    },
+    {
+      "label": "It Gets Better Project",
+      "url": "https://itgetsbetter.org/"
+    },
+    {
+      "label": "Stonewall – LGBTQ+ Rights",
+      "url": "https://www.stonewall.org.uk/"
+    }
+  ]
+},
+"liquor": {
+  "title": "Understanding Alcohol – Choose a Safer Path",
+  "description": "Alcohol might feel like an escape from stress, sadness, or pressure — but over time, it can damage your body, relationships, and mental health. If you're feeling the urge to drink too much or too often, or if alcohol is becoming a crutch, it’s okay to ask for help. There’s no shame in needing support. Many people have turned their lives around and found peace again. You are not alone. It’s never too late to choose health, clarity, and hope.",
+  "image": "https://i.imgur.com/pWo6imu.jpeg",
+  "resources": [
+    {
+      "label": "Alcohol and You (CDC)",
+      "url": "https://www.cdc.gov/alcohol/fact-sheets.htm"
+    },
+    {
+      "label": "National Institute on Alcohol Abuse and Alcoholism",
+      "url": "https://www.niaaa.nih.gov/"
+    },
+    {
+      "label": "How to Reduce or Quit Drinking (SAMHSA)",
+      "url": "https://www.samhsa.gov/find-help/national-helpline"
+    },
+    {
+      "label": "Support from Alcoholics Anonymous",
+      "url": "https://www.aa.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Coping Tips",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+"massacre": {
+  "title": "Violence Isn’t the Answer – Peace Starts With You",
+  "description": "Mass violence is heartbreaking — for victims, communities, and even those who feel driven by hate or confusion. If you’ve come across violent content or had thoughts about hurting others, please pause. The pain inside you deserves attention and healing — not destruction. You are more than your anger or isolation. There are safe, caring people who will listen without judgment and help you process everything. There is always another way. Choose life, choose peace.",
+  "image": "https://i.imgur.com/APV4FZ1.jpeg",
+  "resources": [
+    {
+      "label": "Crisis Support – Mental Health America",
+      "url": "https://mhanational.org/"
+    },
+    {
+      "label": "Talk to Someone – 988 Lifeline",
+      "url": "https://988lifeline.org/"
+    },
+    {
+      "label": "Preventing Violence – CDC Resources",
+      "url": "https://www.cdc.gov/violenceprevention/index.html"
+    },
+    {
+      "label": "Your Life Your Voice – Anger & Coping",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Right To Be – Countering Hate Online",
+      "url": "https://righttobe.org/"
+    }
+  ]
+},
+"masturbation": {
+  "title": "Understanding Your Body and Mind",
+  "description": "It’s natural to have questions about your body, desires, and emotions. Masturbation, like many private behaviors, is often misunderstood or surrounded by shame. If you’re feeling confused, pressured, or anxious about it, you're not alone. What matters is understanding your feelings in a healthy, respectful, and informed way. Talking to a counselor, a trusted adult, or exploring safe educational resources can help you process everything without judgment. Your mental and emotional well-being always comes first.",
+  "image": "https://i.imgur.com/2s1VEHf.jpeg",
+  "resources": [
+    {
+      "label": "YoungMinds – Understanding Sexual Health",
+      "url": "https://www.youngminds.org.uk/"
+    },
+    {
+      "label": "KidsHealth – All About Puberty and Sexual Feelings",
+      "url": "https://kidshealth.org/en/teens/sexual-health/"
+    },
+    {
+      "label": "Scarleteen – Real Answers, No Judgment",
+      "url": "https://www.scarleteen.com/"
+    },
+    {
+      "label": "Your Life Your Voice – When You’re Confused",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Planned Parenthood – Masturbation Info",
+      "url": "https://www.plannedparenthood.org/learn/sex-pleasure-and-sexual-dysfunction/masturbation"
+    }
+  ]
+},
+"mental illness": {
+  "title": "You Are Not Your Diagnosis",
+  "description": "Struggling with mental illness doesn’t mean you are weak or broken — it means you’re human. Anxiety, depression, OCD, bipolar disorder, and others are real challenges that many face every day. You are not alone. Recovery starts with understanding, compassion, and the courage to seek help. There are people trained to support you, listen without judgment, and walk with you toward healing. Don’t carry the weight by yourself — there’s real hope ahead.",
+  "image": "https://i.imgur.com/4LYovp3.jpeg",
+  "resources": [
+    {
+      "label": "Mental Health America – Find Support",
+      "url": "https://mhanational.org/"
+    },
+    {
+      "label": "NAMI – Support for Mental Illness",
+      "url": "https://www.nami.org/Home"
+    },
+    {
+      "label": "Your Life Your Voice – Feeling Overwhelmed",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Mind UK – Mental Health Resources",
+      "url": "https://www.mind.org.uk/"
+    },
+    {
+      "label": "SAMHSA – National Helpline",
+      "url": "https://www.samhsa.gov/find-help/national-helpline"
+    }
+  ]
+},
+"meth": {
+  "title": "Meth Hurts — Healing Starts With Help",
+  "description": "Methamphetamine is a powerful and dangerous drug. It can make you feel invincible at first, but its long-term effects on your brain, body, and relationships can be devastating. If you or someone you know is caught in its grip, it’s not too late. Many have walked away from meth and reclaimed their lives. You deserve clarity, peace, and support — not destruction. Help is real and recovery is possible. You’re not alone in this.",
+  "image": "https://i.imgur.com/e1Bu279.jpeg",
+  "resources": [
+    {
+      "label": "NIDA – Meth Information",
+      "url": "https://www.drugabuse.gov/publications/drugfacts/methamphetamine"
+    },
+    {
+      "label": "Teens and Meth – Get the Facts",
+      "url": "https://teens.drugabuse.gov/drug-facts/methamphetamine"
+    },
+    {
+      "label": "Find Treatment Near You",
+      "url": "https://www.findtreatment.gov/"
+    },
+    {
+      "label": "SAMHSA – Recovery Tools",
+      "url": "https://www.samhsa.gov/find-help/recovery"
+    },
+    {
+      "label": "Your Life Your Voice – Talk to Someone",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-99.aspx"
+    }
+  ]
+},
+"milf": {
+  "title": "Respect Over Objectification",
+  "description": "Internet content can often distort how we see people, especially women. The term you're searching for is often used in objectifying ways. Real relationships and self-respect go beyond surface-level appearances or fantasies. If you’re curious or confused, that’s okay. But it’s important to seek understanding, not exploitation. Learning how to respect yourself and others starts with honest conversations, emotional awareness, and reliable education. You're capable of more than media-driven expectations.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Love Is Respect – Healthy Relationships",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "Scarleteen – Honest Info About Sex & Relationships",
+      "url": "https://www.scarleteen.com/"
+    },
+    {
+      "label": "Your Life Your Voice – Pressure and Choices",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Stop It Now! – Preventing Harmful Behaviors",
+      "url": "https://www.stopitnow.org/"
+    },
+    {
+      "label": "Center for Relationship Education",
+      "url": "https://www.myrelationshipcenter.org/"
+    }
+  ]
+},
+"misogyny": {
+  "title": "Respect Begins With Equality",
+  "description": "Misogyny — the dislike or prejudice against women — causes real harm in schools, communities, online spaces, and relationships. Everyone deserves to be treated with respect, regardless of gender. If you've been affected by toxic behavior or you’re trying to unlearn harmful ideas, you’re taking a powerful step. It’s brave to grow. Kindness, empathy, and fairness build stronger futures. Be the reason someone feels seen, heard, and safe. Change starts with us.",
+  "image": "https://i.imgur.com/DV1WHet.png",
+  "resources": [
+    {
+      "label": "Right To Be – Anti-Harassment Training & Support",
+      "url": "https://righttobe.org/"
+    },
+    {
+      "label": "UN Women – Gender Equality Resources",
+      "url": "https://www.unwomen.org/en"
+    },
+    {
+      "label": "HeForShe Campaign – Take Action",
+      "url": "https://www.heforshe.org/en"
+    },
+    {
+      "label": "Love Is Respect – Healthy Respect in Relationships",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Dealing With Hate or Bias",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+"molest": {
+  "title": "You Deserve to Feel Safe",
+  "description": "If someone has touched you inappropriately or made you feel uncomfortable, it's not your fault. Molestation is a serious violation of your trust and body. You are not alone, and there are safe, trained professionals and helplines that exist to support you. It’s never too late to speak up and seek healing. Your voice matters, your safety matters, and there are people ready to walk this path of recovery with you.",
+  "image": "https://i.imgur.com/M1vSli2.png",
+  "resources": [
+    {
+      "label": "RAINN – Get Help Now",
+      "url": "https://www.rainn.org/"
+    },
+    {
+      "label": "Child Helpline International",
+      "url": "https://childhelplineinternational.org/"
+    },
+    {
+      "label": "Stop It Now! – Child Safety Support",
+      "url": "https://www.stopitnow.org/"
+    },
+    {
+      "label": "Kids Help Phone (24/7 Support)",
+      "url": "https://kidshelpphone.ca/"
+    },
+    {
+      "label": "National Sexual Violence Resource Center",
+      "url": "https://www.nsvrc.org/"
+    }
+  ]
+},
+"murder": {
+  "title": "Violence is Not the Answer",
+  "description": "Whether you've seen violence, lost someone to it, or feel overwhelmed by dark thoughts, know this: there is always a better way forward. Murder ends lives and destroys families. But peace, support, and healing are always possible. You don’t have to carry the weight of pain, rage, or fear alone. Speak to someone, share your feelings, and remember—helping others and choosing empathy can change your life and theirs.",
+  "image": "https://i.imgur.com/APV4FZ1.jpeg",
+  "resources": [
+    {
+      "label": "Peace Over Violence",
+      "url": "https://www.peaceoverviolence.org/"
+    },
+    {
+      "label": "The Trevor Project – Talk to Someone",
+      "url": "https://www.thetrevorproject.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Dealing With Anger",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Mind – Coping With Trauma or Violence",
+      "url": "https://www.mind.org.uk/"
+    },
+    {
+      "label": "Crisis Text Line – Free 24/7 Mental Health Support",
+      "url": "https://www.crisistextline.org/"
+    }
+  ]
+},
+"mutilate": {
+  "title": "You Don't Have to Hurt to Be Heard",
+  "description": "If you feel the urge to hurt yourself or your body, please pause and reach out. Self-mutilation is often a cry for help when words feel impossible. But your pain is valid, and there are kinder, safer ways to cope. You don’t have to punish yourself to express pain. Support, care, and understanding are out there — and you are worthy of all of it. Healing takes time, but every step matters.",
+  "image": "https://i.imgur.com/e1Bu279.jpeg",
+  "resources": [
+    {
+      "label": "SIOutreach – Self-Injury Support",
+      "url": "https://sioutreach.org/"
+    },
+    {
+      "label": "Self-Harm – HelpGuide.org",
+      "url": "https://www.helpguide.org/articles/anxiety/self-harm.htm"
+    },
+    {
+      "label": "Your Life Your Voice – Coping Without Harming",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Lifeline – 24/7 Crisis Help",
+      "url": "https://988lifeline.org/"
+    },
+    {
+      "label": "Mind – Understanding Self-Harm",
+      "url": "https://www.mind.org.uk/information-support/types-of-mental-health-problems/self-harm/"
+    }
+  ]
+},
+"naked": {
+  "title": "Respecting Privacy and Boundaries",
+  "description": "Curiosity is natural, especially when you're growing up. But seeking out or sharing nude images can lead to serious emotional, social, and legal consequences. It's important to value others’ privacy and your own integrity. Instead of looking for content that objectifies or exposes others, choose to understand relationships based on respect and trust. Real connection goes beyond what’s visible. You’re better than what harmful media teaches.",
+  "image": "https://i.imgur.com/66Vn1F5.jpeg",
+  "resources": [
+    {
+      "label": "ThinkUKnow – Online Safety & Respect",
+      "url": "https://www.thinkuknow.co.uk/"
+    },
+    {
+      "label": "Childnet – Understanding Image Sharing",
+      "url": "https://www.childnet.com/"
+    },
+    {
+      "label": "Love Is Respect – Healthy Boundaries",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Online Safety Advice",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "NetSmartz – Internet Safety for Youth",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    }
+  ]
+},
+"nazi": {
+  "title": "Say No to Hate — Choose Peace",
+  "description": "Nazi ideology is built on hatred, violence, and the idea that some lives are more valuable than others. These beliefs have caused immense suffering in history and continue to hurt people today. If you're exposed to hate speech or extremist content, know that you can choose a different path — one of understanding, acceptance, and peace. You are never too young or too lost to stand for what's right.",
+  "image": "https://i.imgur.com/4LYovp3.jpeg",
+  "resources": [
+    {
+      "label": "ADL – Fighting Hate for Good",
+      "url": "https://www.adl.org/"
+    },
+    {
+      "label": "Facing History – Learn from the Past",
+      "url": "https://www.facinghistory.org/"
+    },
+    {
+      "label": "UNESCO – Anti-Hate Education",
+      "url": "https://en.unesco.org/themes/preventing-violent-extremism"
+    },
+    {
+      "label": "Right To Be – Speak Up Against Hate",
+      "url": "https://righttobe.org/"
+    },
+    {
+      "label": "Youth for Human Rights",
+      "url": "https://www.youthforhumanrights.org/"
+    }
+  ]
+},
+"nude": {
+  "title": "Respect and Digital Dignity",
+  "description": "Searching for or sharing nude images might feel tempting or common—but it often leads to regret, shame, or even legal trouble. The internet never forgets. You deserve to learn about relationships and trust in healthy, respectful ways. Protect yourself and others by avoiding harmful content and choosing empathy. Real strength is knowing when to walk away. You are worth more than clicks and pixels.",
+  "image": "https://i.imgur.com/dcvQI4j.jpeg",
+  "resources": [
+    {
+      "label": "ThinkUKnow – Sexting & Image Sharing",
+      "url": "https://www.thinkuknow.co.uk/11_13/need-advice/sexting/"
+    },
+    {
+      "label": "Childline – Sexting & the Law",
+      "url": "https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/sexting/"
+    },
+    {
+      "label": "Your Life Your Voice – Respect in Relationships",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Love Is Respect – Knowing the Line",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "CyberTipline – Report Illegal Content",
+      "url": "https://report.cybertip.org/"
+    }
+  ]
+},
+"orgasm": {
+  "title": "Your Body, Your Boundaries, Your Future",
+  "description": "Understanding your body is part of growing up—but what you learn and where you learn it matters. Searching this topic online may lead you to content that confuses, pressures, or shames you. Instead, find sources that teach with kindness, clarity, and respect. You're not weird or wrong for being curious. You just need the right information, without shame or fear, from people who care about your well-being.",
+  "image": "Your Body, Your Boundaries, Your Future",
+  "resources": [
+    {
+      "label": "Young Men’s Health – Sexual Health Basics",
+      "url": "https://youngmenshealthsite.org/"
+    },
+    {
+      "label": "Amaze.org – Honest Sex Ed for Teens",
+      "url": "https://amaze.org/"
+    },
+    {
+      "label": "Scarleteen – Inclusive Sexuality Education",
+      "url": "https://www.scarleteen.com/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Places for Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Common Sense Media – Knowing What to Trust",
+      "url": "https://www.commonsensemedia.org/"
+    }
+  ]
+},
+"overdose": {
+  "title": "One Dose Too Many – It’s Never Too Late to Get Help",
+  "description": "An overdose is never just a 'bad trip'—it's a life-threatening emergency that affects families, communities, and futures. If you or someone you know is at risk or already struggling with substance use, know this: there is no shame in asking for help. There are compassionate professionals, recovery groups, and peer networks ready to walk with you, step by step, toward healing. You are not alone.",
+  "image": "https://i.imgur.com/476z44v.jpeg",
+  "resources": [
+    {
+      "label": "SAMHSA – Recognizing and Responding to Overdose",
+      "url": "https://www.samhsa.gov/medications-substance-use-disorders/treatment/overdose"
+    },
+    {
+      "label": "FindTreatment.gov – Local Help",
+      "url": "https://www.findtreatment.gov/"
+    },
+    {
+      "label": "Crisis Text Line – Text HOME to 741741",
+      "url": "https://www.crisistextline.org/"
+    },
+    {
+      "label": "National Harm Reduction Coalition",
+      "url": "https://harmreduction.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Coping with Crisis",
+      "url": "https://www.yourlifeyourvoice.org/pages/tip-47.aspx"
+    }
+  ]
+},
+"penis": {
+  "title": "Understanding Your Body with Respect",
+  "description": "Being curious about your body is totally normal. But the internet can give misleading, inappropriate, or unsafe information. It’s important to learn from trusted sources that explain your anatomy with respect, honesty, and care. Your body is not something to be ashamed of — it’s something to understand, protect, and appreciate. You're not alone in your curiosity, and there's no need to feel embarrassed for asking questions.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Young Men's Health – Body Basics",
+      "url": "https://youngmenshealthsite.org/"
+    },
+    {
+      "label": "Amaze.org – Real Info for Growing Teens",
+      "url": "https://amaze.org/"
+    },
+    {
+      "label": "Planned Parenthood – Male Anatomy",
+      "url": "https://www.plannedparenthood.org/learn/teens/ask-experts/what-are-the-parts-of-the-male-sexual-body"
+    },
+    {
+      "label": "Scarleteen – Your Body, Explained",
+      "url": "https://www.scarleteen.com/"
+    },
+    {
+      "label": "Common Sense Media – Learn Safely",
+      "url": "https://www.commonsensemedia.org/"
+    }
+  ]
+},
+
+"racist": {
+  "title": "We All Deserve Respect – Every Color, Every Voice",
+  "description": "Racism divides, destroys, and devalues humanity. Every person, no matter their race or background, deserves respect and equal treatment. If you've experienced racism or have seen it happen, know that you can speak up, seek support, and take a stand. And if you're learning how to unlearn prejudice — that’s brave too. Change begins with compassion, honesty, and action.",
+  "image": "https://i.imgur.com/OzflX8s.jpeg",
+  "resources": [
+    {
+      "label": "Stop Hate UK – Reporting & Education",
+      "url": "https://www.stophateuk.org/"
+    },
+    {
+      "label": "Southern Poverty Law Center – Learn About Hate",
+      "url": "https://www.splcenter.org/"
+    },
+    {
+      "label": "ADL – Anti-Racism Education",
+      "url": "https://www.adl.org/"
+    },
+    {
+      "label": "Learning for Justice – Tools to Teach and Transform",
+      "url": "https://www.learningforjustice.org/"
+    },
+    {
+      "label": "UNICEF – Teaching Tolerance & Respect",
+      "url": "https://www.unicef.org/"
+    }
+  ]
+},
+
+
+
+
+
+"homicide": {
+  "title": "Big Questions Need Safe Answers",
+  "description": "If you're searching about topics like homicide, it's okay to be curious — but many online sources can be upsetting, confusing, or inappropriate. Instead, look for information that teaches with care, respect, and truth. You deserve to learn in a way that feels safe and clear.",
+  "image": "https://i.imgur.com/YjZqzC0.jpeg",
+  "resources": [
+    {
+      "label": "Common Sense Media – Learning What's Real Online",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Ask Big Questions Safely",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "PBS Kids – Curious Minds, Safe Learning",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Helping Kids Understand Hard Topics",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "National Geographic Kids – Learn About the World Safely",
+      "url": "https://kids.nationalgeographic.com/"
+    }
+  ]
+},
+"burglary": {
+  "title": "Safety and Smarts – What You Deserve to Know",
+  "description": "Burglary can sound scary, and searching online might lead to confusing or upsetting info. It’s okay to be curious — just make sure you’re learning from trusted, safe sources that explain things clearly and kindly. You deserve answers that respect your age and your feelings.",
+  "image": "https://i.imgur.com/YjZqzC0.jpeg",
+  "resources": [
+    {
+      "label": "Common Sense Media – Learning What's Real Online",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Ask Big Questions Safely",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "PBS Kids – Curious Minds, Safe Learning",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Helping Kids Understand Hard Topics",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "National Geographic Kids – Learn About the World Safely",
+      "url": "https://kids.nationalgeographic.com/"
+    }
+  ]
+},
+"fraud": {
+  "title": "Smart Thinking Starts with Safe Learning",
+  "description": "Fraud can mean people trying to trick others out of money or personal information. But many sources online can mislead or scare you. If you're curious, that’s okay — just make sure you're learning from trustworthy people who explain things the right way.",
+"image": "https://i.imgur.com/YjZqzC0.jpeg",
+  "resources": [
+    {
+      "label": "Common Sense Media – Spotting Scams and Fakes",
+      "url": "https://www.commonsensemedia.org/privacy-and-internet-safety"
+    },
+    {
+      "label": "FBI Safe Online Surfing for Kids",
+      "url": "https://sos.fbi.gov/"
+    },
+    {
+      "label": "PBS Kids – Digital Citizenship",
+      "url": "https://pbskids.org/learn/digital-citizenship/"
+    },
+    {
+      "label": "National Center for Missing & Exploited Children",
+      "url": "https://www.missingkids.org/netsmartz"
+    },
+    {
+      "label": "Cyber Civics – Teaching Kids Digital Literacy",
+      "url": "https://www.cybercivics.com/"
+    }
+  ]
+},
+"theft": {
+  "title": "Learning About Right and Wrong – Safely",
+  "description": "Theft means taking something that doesn’t belong to you, but online info about it can be dramatic or harmful. It’s okay to ask questions — what matters is that you get your answers in a kind, safe, and respectful way. You deserve to learn without fear.",
+  "image": "https://i.imgur.com/YjZqzC0.jpeg",
+  "resources": [
+    {
+      "label": "Common Sense Media – Good Choices Online",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "PBS Kids – Learning Right From Wrong",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Understanding Consequences",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – When You Feel Guilty or Confused",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Cyber Civics – Responsible Choices Online",
+      "url": "https://www.cybercivics.com/"
+    }
+  ]
+},
+
+  "kidnapping": {
+    "title": "Staying Safe and Knowing What to Do",
+    "description": "Kidnapping is when someone takes another person without permission, and it's very serious. But learning about safety doesn't have to be scary. You can understand it in a calm, helpful way so you feel more confident and aware.",
+   "image": "https://i.imgur.com/YjZqzC0.jpeg",
+    "resources": [
+      {
+        "label": "National Center for Missing & Exploited Children",
+        "url": "https://www.missingkids.org/home"
+      },
+      {
+        "label": "Safe Kids Worldwide – Safety Tips",
+        "url": "https://www.safekids.org/"
+      },
+      {
+        "label": "Kidpower – Safety Skills for Kids",
+        "url": "https://www.kidpower.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Staying Safe",
+        "url": "https://www.yourlifeyourvoice.org/"
+      },
+      {
+        "label": "PBS Kids – Knowing Who to Trust",
+        "url": "https://pbskids.org/"
+      }
+    ]
+  },
+
+  "extortion": {
+    "title": "Understanding Pressure and Speaking Up",
+    "description": "Extortion is when someone threatens another person to get something from them. If anything like that happens or worries you, it’s important to know you can always talk to a safe adult. Learning about this helps you know what’s right and what to do.",
+    "image": "https://i.imgur.com/YjZqzC0.jpeg",
+    "resources": [
+      {
+        "label": "StopBullying.gov – Speak Up Against Threats",
+        "url": "https://www.stopbullying.gov/"
+      },
+      {
+        "label": "NetSmartz – What’s Not Okay Online",
+        "url": "https://www.missingkids.org/netsmartz/home"
+      },
+      {
+        "label": "Cyber Civics – Online Kindness",
+        "url": "https://www.cybercivics.com/"
+      },
+      {
+        "label": "Child Mind Institute – Standing Up for Yourself",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "Common Sense Media – Safe Online Behavior",
+        "url": "https://www.commonsensemedia.org/"
+      }
+    ]
+  },
+
+  "arson": {
+    "title": "Fire Safety and Making Good Choices",
+    "description": "Arson is when someone sets a fire on purpose, which is very dangerous. Learning about fire safety helps you understand how to be careful and protect yourself and others. It’s okay to ask questions — the answers should make you feel safer, not scared.",
+    "image": "https://i.imgur.com/YjZqzC0.jpeg",
+    "resources": [
+      {
+        "label": "NFPA – Learn About Fire Safety",
+        "url": "https://www.nfpa.org/"
+      },
+      {
+        "label": "Sparky.org – Fire Safety for Kids",
+        "url": "https://www.sparky.org/"
+      },
+      {
+        "label": "Safe Kids – Home Safety and Fire Tips",
+        "url": "https://www.safekids.org/"
+      },
+      {
+        "label": "Ready.gov – Be Prepared for Emergencies",
+        "url": "https://www.ready.gov/kids"
+      },
+      {
+        "label": "PBS Kids – Stay Safe with Elinor",
+        "url": "https://pbskids.org/elinor/"
+      }
+    ]
+  },
+
+  "money laundering": {
+    "title": "Understanding Rules and Honesty",
+    "description": "Money laundering is a big word that means hiding where money comes from, especially when it’s gotten in a dishonest way. You don’t need to worry — learning about honesty and right actions helps you grow up strong and kind.",
+    "image": "https://i.imgur.com/YjZqzC0.jpeg",
+    "resources": [
+      {
+        "label": "Common Sense – Learning Financial Basics",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "PBS Kids – Understanding Fairness",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Junior Achievement – What is Money?",
+        "url": "https://www.juniorachievement.org/"
+      },
+      {
+        "label": "Cyber Civics – Making Smart Online Choices",
+        "url": "https://www.cybercivics.com/"
+      },
+      {
+        "label": "Your Life Your Voice – Doing What’s Right",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+
+  "cybercrime": {
+    "title": "Being Safe and Smart Online",
+    "description": "Cybercrime means using computers to do something wrong or harmful, like stealing or tricking people. But the internet can still be a safe and fun place if you learn how to use it wisely. You have the power to make good online choices!",
+    "image": "https://i.imgur.com/YjZqzC0.jpeg",
+    "resources": [
+      {
+        "label": "NetSmartz – Be Smart Online",
+        "url": "https://www.missingkids.org/netsmartz/home"
+      },
+      {
+        "label": "Cyber Civics – Online Citizenship",
+        "url": "https://www.cybercivics.com/"
+      },
+      {
+        "label": "Common Sense Media – Online Safety Tips",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "SafeKids – Digital Safety for Children",
+        "url": "https://www.safekids.com/"
+      },
+      {
+        "label": "PBS Kids – Games About Online Safety",
+        "url": "https://pbskids.org/"
+      }
+    ]
+  },
+  "manslaughter": {
+  "title": "Understanding Difficult Words",
+  "description": "Manslaughter means someone causes another person’s death without meaning to do it. It’s a serious and complicated topic. If you’re curious or worried, remember it’s always okay to ask a grown-up you trust.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Child Mind Institute – Help with Big Feelings",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "NetSmartz – Kids Safety Tips",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "PBS Kids – Safe and Smart",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Childline – Talk to Someone Anytime",
+      "url": "https://www.childline.org.uk/"
+    }
+  ]
+},
+"stabbing": {
+  "title": "Learning About Violence Safely",
+  "description": "Stabbing means hurting someone with a sharp object. It’s a serious and scary thing, but it’s okay to be curious and want to learn. If you feel worried or upset, always tell a trusted adult who can help.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Child Mind Institute – Handling Fear",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "NetSmartz – Safety Tips for Kids",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "PBS Kids – Stay Safe",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Space for Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Childline – Talk Anytime",
+      "url": "https://www.childline.org.uk/"
+    }
+  ]
+},
+"shooting": {
+  "title": "Understanding Violence and Staying Safe",
+  "description": "Shooting means hurting someone with a gun or weapon. It’s a hard topic but learning about it carefully can help you feel safer. Remember, you can always talk to a trusted adult if you’re scared or confused.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Child Mind Institute – Help With Big Feelings",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "NetSmartz – Kids Safety Rules",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "PBS Kids – Safe Learning",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Ask Questions Safely",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Childline – You Can Talk to Someone",
+      "url": "https://www.childline.org.uk/"
+    }
+  ]
+},
+"beating": {
+  "title": "Understanding Hurt and How to Stay Safe",
+  "description": "Beating means hurting someone by hitting them. It’s never okay, and it’s important to know how to protect yourself and get help if you feel unsafe. You can always talk to a trusted adult about your feelings and worries.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Child Mind Institute – Help With Difficult Feelings",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – How to Stay Safe",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "PBS Kids – Learning About Kindness",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Support for Kids",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Childline – Talk to Someone",
+      "url": "https://www.childline.org.uk/"
+    }
+  ]
+},
+"bloodshed": {
+  "title": "Big Words and Big Feelings",
+  "description": "Bloodshed means when people get hurt badly, sometimes in fights or accidents. It can be a scary word, but it’s okay to feel unsure. Always remember you can talk to a trusted adult to understand your feelings and stay safe.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Child Mind Institute – Help With Big Feelings",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Support for You",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "PBS Kids – Safe Learning",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Childline – Talk to Someone",
+      "url": "https://www.childline.org.uk/"
+    },
+    {
+      "label": "StopBullying.gov – Staying Safe",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"domestic violence": {
+  "title": "You Deserve to Be Safe at Home",
+  "description": "Domestic violence means hurting people you live with. It’s never okay. If you feel unsafe at home, tell a trusted adult — there are people ready to help and protect you.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Childline – Help for Home Safety",
+      "url": "https://www.childline.org.uk/"
+    },
+    {
+      "label": "Love is Respect – Support and Safety",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Help",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Feeling Safe",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Staying Safe",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"armed robbery": {
+  "title": "Learning About Safety and Crime",
+  "description": "Armed robbery means someone uses a weapon to take things from others. It’s serious and scary, but knowing about it helps you stay safe. Always tell a trusted adult if something worries you.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Childline – Talk About Safety",
+      "url": "https://www.childline.org.uk/"
+    },
+    {
+      "label": "Safe Kids – Safety Tips",
+      "url": "https://www.safekids.org/"
+    },
+    {
+      "label": "StopBullying.gov – Staying Safe",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "PBS Kids – Learning Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Space",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+
+"lynching": {
+  "title": "Learning About History and Respect",
+  "description": "Lynching is when people hurt someone badly without a fair trial. It’s a sad part of history and shows why kindness and fairness matter. If you want to learn more, talk to a trusted adult who can help explain with care.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Teaching Tolerance – Learning Respect",
+      "url": "https://www.tolerance.org/"
+    },
+    {
+      "label": "Child Mind Institute – Understanding Difficult Topics",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Space",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "PBS Kids – Learning Respect",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Childline – Talk to Someone",
+      "url": "https://www.childline.org.uk/"
+    }
+  ]
+},
+"abuse": {
+  "title": "You Deserve to Be Safe and Heard",
+  "description": "Abuse means someone hurts or treats another person very badly. If you ever feel scared or upset, it’s very important to tell a trusted adult. You are not alone, and people want to help you feel safe.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Childline – Help for Abuse",
+      "url": "https://www.childline.org.uk/"
+    },
+    {
+      "label": "Your Life Your Voice – Support and Help",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Healing and Support",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Love is Respect – Safe Relationships",
+      "url": "https://www.loveisrespect.org/"
+    },
+    {
+      "label": "RAINN – Help for Abuse Survivors",
+      "url": "https://www.rainn.org/"
+    }
+  ]
+},
+"strangulation": {
+  "title": "Learning About Safety and Respect",
+  "description": "Strangulation means hurting someone by pressing on their neck. It’s very serious and dangerous. If you ever feel scared or worried about anything like this, please tell a trusted adult. Help is always available.",
+ "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Childline – Talk to Someone",
+      "url": "https://www.childline.org.uk/"
+    },
+    {
+      "label": "Your Life Your Voice – Support and Help",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "RAINN – Safety and Support",
+      "url": "https://www.rainn.org/"
+    },
+    {
+      "label": "Child Mind Institute – Healing Help",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Love is Respect – Staying Safe",
+      "url": "https://www.loveisrespect.org/"
+    }
+  ]
+},
+"torture": {
+  "title": "Understanding Hard Topics with Care",
+  "description": "Torture means hurting someone very badly on purpose. It’s a very serious topic and can be upsetting. If you ever have questions or feel worried, talk to a trusted adult who can help you understand safely.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Child Mind Institute – Support for Big Feelings",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "PBS Kids – Safe Learning",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Childline – Talk Anytime",
+      "url": "https://www.childline.org.uk/"
+    },
+    {
+      "label": "StopBullying.gov – Staying Safe",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"knife attack": {
+  "title": "Understanding and Staying Safe",
+  "description": "A knife attack means hurting someone with a sharp object. It’s serious and scary, but learning about safety and talking to trusted adults can help you feel safer and stronger.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "Child Mind Institute – Help With Fear",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Safe Kids – Safety Tips",
+      "url": "https://www.safekids.org/"
+    },
+    {
+      "label": "StopBullying.gov – Staying Safe",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "PBS Kids – Learning Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Space",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+
+"cocaine": {
+  "title": "Learning About Drugs Safely",
+  "description": "Cocaine is a drug that some people use, but it can be very harmful. It’s important to learn from safe places and talk to trusted adults if you have questions or feel confused.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "KidsHealth – Understanding Drugs",
+      "url": "https://kidshealth.org/en/kids/drugs.html"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Healthy",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Drugs",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+
+"lsd": {
+  "title": "Learning About Drugs Safely",
+  "description": "LSD is a drug that can change how people see or feel things. It can be confusing or dangerous, so it’s important to learn from trusted adults and safe places.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "KidsHealth – Understanding Drugs",
+      "url": "https://kidshealth.org/en/kids/drugs.html"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Healthy",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Drugs",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"opioids": {
+  "title": "Learning About Medicines and Safety",
+  "description": "Opioids are strong medicines that some people use for pain, but they can be harmful if not used carefully. It’s important to learn about medicines safely and always follow trusted adults’ advice.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "KidsHealth – Medicines and Safety",
+      "url": "https://kidshealth.org/en/kids/medicines.html"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Healthy",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Drugs",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"ecstasy": {
+  "title": "Learning About Drugs Safely",
+  "description": "Ecstasy is a drug some people use, but it can be very harmful. Learning from safe places and trusted adults can help you understand why drugs like this are dangerous.",
+  "image": "https://i.imgur.com/2tQB22F.jpeg",
+  "resources": [
+    {
+      "label": "KidsHealth – Understanding Drugs",
+      "url": "https://kidshealth.org/en/kids/drugs.html"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Healthy",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Drugs",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"marijuana": {
+  "title": "Learning About Drugs Safely",
+  "description": "Marijuana is a plant some people use, but it can affect how your body and mind work. It’s important to learn from trusted adults and safe places so you understand the facts.",
+   "image": "https://i.imgur.com/2tQB22F.jpeg",
+  "resources": [
+    {
+      "label": "KidsHealth – Understanding Drugs",
+      "url": "https://kidshealth.org/en/kids/drugs.html"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Healthy",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Drugs",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"narcotics": {
+  "title": "Learning About Drugs Safely",
+  "description": "Narcotics are strong drugs that can be harmful if misused. It’s important to get your information from trusted adults and safe places so you understand how to stay healthy.",
+  "image": "https://i.imgur.com/2tQB22F.jpeg",
+  "resources": [
+    {
+      "label": "KidsHealth – Understanding Drugs",
+      "url": "https://kidshealth.org/en/kids/drugs.html"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Healthy",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Drugs",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"crack": {
+  "title": "Learning About Drugs Safely",
+  "description": "Crack is a strong drug that can be very harmful. It’s important to learn about drugs from trusted adults and safe sources to understand why some substances are dangerous.",
+  "image": "https://i.imgur.com/IdAdFzA.jpeg",
+  "resources": [
+    {
+      "label": "KidsHealth – Understanding Drugs",
+      "url": "https://kidshealth.org/en/kids/drugs.html"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Healthy",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Drugs",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"smuggling": {
+  "title": "Understanding Illegal Activities",
+  "description": "Smuggling means secretly moving things that aren’t allowed. It’s a crime that can hurt people and communities. Learning about it helps you understand why following rules and staying safe is important.",
+  "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "PBS Kids – Learning Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Understanding Crime",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Staying Safe",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "DrugFree.org – Info for Kids",
+      "url": "https://drugfree.org/"
+    }
+  ]
+},
+"hacking": {
+  "title": "Learning About Computer Safety",
+  "description": "Hacking means someone trying to get into computers or accounts they shouldn’t. It’s important to keep your passwords safe and talk to adults if something feels wrong online.",
+  "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Staying Safe Online",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "Common Sense Media – Internet Safety",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "PBS Kids – Online Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Online Safety",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"phishing": {
+  "title": "Protecting Yourself from Scams",
+  "description": "Phishing is when someone tries to trick you into giving away personal info online. Always check with a trusted adult before clicking links or sharing details.",
+    "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Avoiding Online Scams",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "Common Sense Media – Digital Safety",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Safe Online",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Online Safety Tips",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"malware": {
+  "title": "Understanding Computer Viruses",
+  "description": "Malware is a kind of software that can harm your computer or phone. It’s important to keep devices safe by not clicking unknown links and asking adults for help if something seems strange.",
+    "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Online Safety Tips",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "Common Sense Media – Internet Safety",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "PBS Kids – Keeping Devices Safe",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Talking About Online Safety",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"ransomware": {
+  "title": "Protecting Your Computer from Threats",
+  "description": "Ransomware is a type of malware that locks your computer until money is paid. It’s very dangerous, so always be careful online and talk to adults if you see something strange.",
+    "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Online Safety",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "Common Sense Media – Digital Citizenship",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Safe Online",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Online Safety Tips",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"sextortion": {
+  "title": "Staying Safe from Online Tricks",
+  "description": "Sextortion is when someone tries to trick or scare you online to get private information or pictures. If anything like this happens, tell a trusted adult right away. You are not alone and help is available.",
+    "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Online Safety",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "StopBullying.gov – Help and Safety",
+      "url": "https://www.stopbullying.gov/resources/get-help-now"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Common Sense Media – Digital Safety",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Child Mind Institute – Online Safety",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"identity theft": {
+  "title": "Protecting Your Personal Information",
+  "description": "Identity theft means someone uses your personal information without permission. Keep your information safe by sharing only with trusted adults and never giving out passwords.",
+    "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Keeping Info Safe",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "Common Sense Media – Internet Safety",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "PBS Kids – Staying Safe Online",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Online Safety Tips",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"online predator": {
+  "title": "Staying Safe From Strangers Online",
+  "description": "An online predator is someone who tries to trick kids on the internet. Always be careful about who you talk to online and tell a trusted adult if someone makes you uncomfortable.",
+  "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Online Safety for Kids",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "StopBullying.gov – Online Safety",
+      "url": "https://www.stopbullying.gov/cyberbullying/what-is-it"
+    },
+    {
+      "label": "Common Sense Media – Digital Safety",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Staying Safe Online",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"spyware": {
+  "title": "Keeping Your Computer and Info Safe",
+  "description": "Spyware is a type of software that tries to watch what you do on your computer without permission. Protect your devices by not clicking unknown links and asking adults if you’re unsure.",
+    "image": "https://i.imgur.com/WLdEqKS.jpeg",
+  "resources": [
+    {
+      "label": "NetSmartz – Online Safety Tips",
+      "url": "https://www.missingkids.org/netsmartz/home"
+    },
+    {
+      "label": "Common Sense Media – Internet Safety",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "PBS Kids – Keeping Devices Safe",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Online Safety Help",
+      "url": "https://childmind.org/"
+    }
+  ]
+},
+"crime scene": {
+  "title": "Understanding What Happens at a Crime Scene",
+  "description": "A crime scene is a place where something bad happened. Police and helpers work carefully there to find clues and help keep everyone safe. It’s important to respect these places and learn about how they help solve problems.",
+  "image": "https://i.imgur.com/rlSi7ey.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Learning About Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Understanding Crime",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Learning About Safety",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Safety and Respect",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"investigation": {
+  "title": "How People Solve Mysteries",
+  "description": "An investigation is when police or helpers carefully look for clues to understand what happened. This helps keep people safe and find the truth. Asking questions and learning is a big part of solving problems.",
+  "image": "https://i.imgur.com/rlSi7ey.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Learning About Investigations",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Understanding Crime",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Problem Solving",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Safety and Respect",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"forensics": {
+  "title": "Science Helping Solve Mysteries",
+  "description": "Forensics uses science to help solve crimes by studying clues like fingerprints and evidence. It’s like being a detective with science tools to keep everyone safe and find the truth.",
+  "image": "https://i.imgur.com/rlSi7ey.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Science and Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Science Learning",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Science for Safety",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Respect and Safety",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"crime": {
+  "title": "When Rules Are Broken",
+  "description": "A crime means someone broke an important rule that helps keep people safe. Learning about this helps kids understand why following rules and being kind matters.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – What Are Rules?",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Being a Good Citizen",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "StopBullying.gov – Respect and Rules",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Child Mind Institute – Learning Right from Wrong",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Making Safe Choices",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+"bad": {
+  "title": "Understanding Feelings and Choices",
+  "description": "Sometimes people make bad choices or feel bad. It’s important to learn how to make good choices and understand our feelings. Everyone can learn to do better.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Learning About Emotions",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Helping Kids Understand Feelings",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Making Good Choices",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Common Sense Media – Values and Empathy",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Talking About Feelings",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+"jail": {
+  "title": "A Place to Learn From Mistakes",
+  "description": "Jail is where grown-ups go when they break big rules. It's meant to help people understand what they did wrong and how to do better in the future.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – What Happens When Rules Are Broken?",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Understanding Justice",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "StopBullying.gov – Learning From Mistakes",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Child Mind Institute – Helping Kids Understand Rules",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Making Better Choices",
+      "url": "https://www.yourlifeyourvoice.org/"
+    }
+  ]
+},
+"trial": {
+  "title": "A Fair Way to Find the Truth",
+  "description": "A trial is when people go to court to talk about what happened and find out the truth. It helps make sure everyone is treated fairly and safely.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – What’s Fair?",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Being Fair",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Asking Good Questions",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Helping Kids Understand Justice",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Treating Others Fairly",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"arrest": {
+  "title": "When Police Take Action",
+  "description": "An arrest is when police stop someone who might have broken a rule. It helps keep people safe while they figure out what really happened.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Understanding Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – How Rules Work",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – What’s Right and Wrong",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Helping Kids Feel Safe",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Rules and Safety",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"warrant": {
+  "title": "Permission to Do Something Important",
+  "description": "A warrant is a special paper that lets police check a place or arrest someone with permission. It helps make sure actions are fair and follow the rules.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Learning About Rules",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Understanding Laws",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Asking Why",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Helping Kids Feel Safe",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Learning About Respect",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+
+"interrogation": {
+  "title": "Asking Questions to Find the Truth",
+  "description": "Interrogation means asking someone many questions to find out what really happened. It’s like being a detective to help understand the full story and make sure everyone is treated fairly.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Solving Mysteries",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Asking Questions",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Talking and Listening",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Understanding Others",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Communication and Respect",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"criminal": {
+  "title": "Someone Who Breaks the Rules",
+  "description": "A criminal is a person who breaks important laws. Learning about this helps us understand the importance of following rules and treating others kindly and safely.",
+  "image": "https://i.imgur.com/UfVn46I.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Rules and Safety",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Common Sense Media – Right and Wrong",
+      "url": "https://www.commonsensemedia.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Learning About Choices",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Child Mind Institute – Understanding Behavior",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Kindness and Safety",
+      "url": "https://www.stopbullying.gov/"
+    }
+  ]
+},
+"bleed": {
+    "title": "When Someone Gets Hurt",
+    "description": "Bleeding means when blood comes out of the body because of a cut or injury. It’s important to stay calm and get help to stay safe.",
+    "image": "https://i.imgur.com/C6YTImr.jpeg",
+    "resources": [
+      {
+        "label": "PBS Kids – Staying Safe",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Child Mind Institute – Safety Skills",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "StopBullying.gov – Staying Calm",
+        "url": "https://www.stopbullying.gov/"
+      }
+    ]
+  },
+  "beat": {
+    "title": "Hurting Someone is Never Okay",
+    "description": "Beating means hurting someone again and again. It's not safe or kind. We should always find peaceful ways to solve problems.",
+    "image": "https://i.imgur.com/C6YTImr.jpeg",
+    "resources": [
+      {
+        "label": "PBS Kids – Solving Problems with Kindness",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Talking It Out",
+        "url": "https://www.yourlifeyourvoice.org/"
+      },
+      {
+        "label": "StopBullying.gov – Respect and Safety",
+        "url": "https://www.stopbullying.gov/"
+      }
+    ]
+  },
+  "cut": {
+    "title": "Be Careful with Sharp Things",
+    "description": "A cut can happen when something sharp touches your skin. Always ask an adult for help and be careful around sharp objects.",
+    "image": "https://i.imgur.com/C6YTImr.jpeg",
+    "resources": [
+      {
+        "label": "Common Sense Media – Staying Safe",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "PBS Kids – Learning About Safety",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Child Mind Institute – Calm and Care",
+        "url": "https://childmind.org/"
+      }
+    ]
+  },
+  "hit": {
+    "title": "Hands Are Not for Hitting",
+    "description": "Hitting is not a kind way to solve problems. We can use words, take deep breaths, or ask an adult for help instead.",
+    "image": "https://i.imgur.com/C6YTImr.jpeg",
+    "resources": [
+      {
+        "label": "PBS Kids – Kindness and Safety",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "StopBullying.gov – Respectful Choices",
+        "url": "https://www.stopbullying.gov/"
+      },
+      {
+        "label": "Your Life Your Voice – Handling Anger",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "hurt": {
+    "title": "When We Feel Pain or Sadness",
+    "description": "Being hurt can mean feeling pain in your body or feelings. It’s okay to talk to someone and get help when you’re hurt.",
+    "image": "https://i.imgur.com/C6YTImr.jpeg",
+    "resources": [
+      {
+        "label": "Child Mind Institute – Feelings and Help",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "PBS Kids – Dealing with Hurt",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Talking About Feelings",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "kick": {
+    "title": "Using Feet to Hurt is Not Okay",
+    "description": "Kicking means using your feet to hurt someone or something. It's important to learn to express feelings in calm and safe ways instead of hurting others.",
+    "image": "https://i.imgur.com/IMpxCmY.png",
+    "resources": [
+      {
+        "label": "PBS Kids – Handling Emotions",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Common Sense Media – Kind Choices",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Talk It Out",
+        "url": "https://www.yourlifeyourvoice.org/"
+      },
+      {
+        "label": "Child Mind Institute – Anger Management",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "StopBullying.gov – Be Respectful",
+        "url": "https://www.stopbullying.gov/"
+      }
+    ]
+  },
+  "choke": {
+    "title": "Choking Can Be Very Dangerous",
+    "description": "Choking means squeezing someone’s neck so they can’t breathe. This is very unsafe and serious. Always ask for help if you feel scared or unsafe.",
+    "image": "https://i.imgur.com/IMpxCmY.png",
+    "resources": [
+      {
+        "label": "PBS Kids – Staying Safe",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Common Sense Media – Safety First",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Get Help",
+        "url": "https://www.yourlifeyourvoice.org/"
+      },
+      {
+        "label": "Child Mind Institute – Serious Topics",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "StopBullying.gov – Asking for Help",
+        "url": "https://www.stopbullying.gov/"
+      }
+    ]
+  },
+  "crush": {
+    "title": "Crushing Things Can Be Harmful",
+    "description": "To crush something means to press it so hard it breaks. When we feel strong emotions, it’s better to talk about them instead of hurting things or people.",
+    "image": "https://i.imgur.com/IMpxCmY.png",
+    "resources": [
+      {
+        "label": "PBS Kids – Handling Big Feelings",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Common Sense Media – Healthy Actions",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Calm Ways",
+        "url": "https://www.yourlifeyourvoice.org/"
+      },
+      {
+        "label": "Child Mind Institute – Talking About Feelings",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "StopBullying.gov – Safe Behavior",
+        "url": "https://www.stopbullying.gov/"
+      }
+    ]
+  },
+ 
+ 
+  "shoot": {
+  "title": "Understanding Dangerous Actions",
+  "description": "Shooting is a harmful and dangerous action that should never be taken lightly. It's important to learn about safety and how to solve problems peacefully without violence.",
+  "image": "https://i.imgur.com/ldItNnB.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Resolving Conflict Peacefully",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "StopBullying.gov – Staying Safe",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Child Mind Institute – Handling Emotions",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – When You’re Angry",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Common Sense Media – Dealing with Violence",
+      "url": "https://www.commonsensemedia.org/"
+    }
+  ]
+},
+
+"bite": {
+  "title": "Biting and Safe Behavior",
+  "description": "Biting can hurt others and is not a safe way to express feelings. Learning about respect and self-control helps us handle strong emotions in kind and calm ways.",
+  "image": "https://i.imgur.com/ldItNnB.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Emotions and Behavior",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Understanding Behavior",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "StopBullying.gov – Respect and Kindness",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Your Life Your Voice – Managing Anger",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Common Sense Media – Behavior Basics",
+      "url": "https://www.commonsensemedia.org/"
+    }
+  ]
+},
+
+"tear": {
+  "title": "Tearing and Controlling Actions",
+  "description": "Tearing things apart can be a sign of strong feelings. It’s okay to feel big emotions, but it’s important to talk about them and find safe ways to express them.",
+  "image": "https://i.imgur.com/ldItNnB.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Expressing Emotions",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Big Feelings",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Healthy Expression",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "StopBullying.gov – Coping Tools",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Common Sense Media – Dealing with Stress",
+      "url": "https://www.commonsensemedia.org/"
+    }
+  ]
+},
+
+"attack": {
+  "title": "Understanding Attacks and Safety",
+  "description": "Attacking someone can cause serious harm. It’s better to use kind words, ask for help, or walk away. Learning peaceful ways to handle problems helps everyone stay safe.",
+  "image": "https://i.imgur.com/ldItNnB.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Conflict Resolution",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "StopBullying.gov – Peaceful Solutions",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Child Mind Institute – Managing Aggression",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – Safe Choices",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "Common Sense Media – Getting Along",
+      "url": "https://www.commonsensemedia.org/"
+    }
+  ]
+},
+
+"scream": {
+  "title": "Screaming and Strong Feelings",
+  "description": "Screaming often happens when someone is upset or scared. While it’s okay to feel strong emotions, it’s important to learn safe and calm ways to express yourself.",
+  "image": "https://i.imgur.com/ldItNnB.jpeg",
+  "resources": [
+    {
+      "label": "PBS Kids – Talking About Feelings",
+      "url": "https://pbskids.org/"
+    },
+    {
+      "label": "Child Mind Institute – Calming Strategies",
+      "url": "https://childmind.org/"
+    },
+    {
+      "label": "Your Life Your Voice – When You’re Overwhelmed",
+      "url": "https://www.yourlifeyourvoice.org/"
+    },
+    {
+      "label": "StopBullying.gov – Self-Control Skills",
+      "url": "https://www.stopbullying.gov/"
+    },
+    {
+      "label": "Common Sense Media – Handling Emotions",
+      "url": "https://www.commonsensemedia.org/"
+    }
+  ]
+},
+ "blood": {
+    "title": "The Red Liquid in Our Bodies",
+    "description": "Blood is the red liquid that moves around inside us. It helps keep us alive by carrying oxygen and nutrients. Learning about blood helps us understand our bodies better.",
+    "image": "https://i.imgur.com/JXDMoLv.jpeg",
+    "resources": [
+      {
+        "label": "KidsHealth – What is Blood?",
+        "url": "https://kidshealth.org/"
+      },
+      {
+        "label": "BBC Bitesize – Human Body Facts",
+        "url": "https://www.bbc.co.uk/bitesize"
+      },
+      {
+        "label": "National Geographic Kids – Human Body",
+        "url": "https://kids.nationalgeographic.com/"
+      }
+    ]
+  },
+  "pain": {
+    "title": "When Something Hurts",
+    "description": "Pain is the feeling we get when something hurts, like falling down or getting a cut. It tells us that something is wrong so we can take care of it. Understanding pain helps us stay safe and healthy.",
+    "image": "https://i.imgur.com/JXDMoLv.jpeg",
+    "resources": [
+      {
+        "label": "KidsHealth – Dealing with Pain",
+        "url": "https://kidshealth.org/"
+      },
+      {
+        "label": "Child Mind Institute – Managing Feelings",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Talking About Feelings",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "bruise": {
+    "title": "A Colorful Mark After a Bump",
+    "description": "A bruise is a mark on the skin that happens after a bump or fall. It changes color as it heals. Learning about bruises helps us know how our bodies react and recover.",
+    "image": "https://i.imgur.com/JXDMoLv.jpeg",
+    "resources": [
+      {
+        "label": "KidsHealth – What’s a Bruise?",
+        "url": "https://kidshealth.org/"
+      },
+      {
+        "label": "HealthyChildren.org – Skin Safety",
+        "url": "https://www.healthychildren.org/"
+      },
+      {
+        "label": "Safe Kids Worldwide – Preventing Injuries",
+        "url": "https://www.safekids.org/"
+      }
+    ]
+  },
+  "scar": {
+    "title": "A Mark That Stays After Healing",
+    "description": "A scar is a mark left on the skin after a wound heals. It shows that our bodies are strong and can repair themselves. Learning about scars helps kids understand healing.",
+    "image": "https://i.imgur.com/JXDMoLv.jpeg",
+    "resources": [
+      {
+        "label": "KidsHealth – About Scars",
+        "url": "https://kidshealth.org/"
+      },
+      {
+        "label": "Child Mind Institute – Feeling Different",
+        "url": "https://childmind.org/"
+      },
+      {
+        "label": "StopBullying.gov – Kindness and Respect",
+        "url": "https://www.stopbullying.gov/"
+      }
+    ]
+  },
+  "wound": {
+    "title": "An Opening or Cut on the Skin",
+    "description": "A wound is when the skin is cut or broken. It needs cleaning and care so it can heal. Knowing about wounds helps kids learn how to treat injuries safely.",
+    "image": "https://i.imgur.com/JXDMoLv.jpeg",
+    "resources": [
+      {
+        "label": "KidsHealth – First Aid for Cuts",
+        "url": "https://kidshealth.org/"
+      },
+      {
+        "label": "Red Cross Kids – First Aid Safety",
+        "url": "https://www.redcross.org/"
+      },
+      {
+        "label": "Safe Kids Worldwide – Injury Prevention",
+        "url": "https://www.safekids.org/"
+      }
+    ]
+  },
+  "scared": {
+    "title": "Feeling Scared is Okay",
+    "description": "Feeling scared means your body is telling you to be careful. It’s a normal feeling, and talking to someone you trust can help you feel safe.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Sesame Street in Communities – Understanding Fear",
+        "url": "https://sesamestreetincommunities.org/topics/fear/"
+      },
+      {
+        "label": "Child Mind Institute – Managing Anxiety",
+        "url": "https://childmind.org/topics/anxiety/"
+      },
+      {
+        "label": "KidsHealth – Feeling Scared",
+        "url": "https://kidshealth.org/en/kids/scared.html"
+      }
+    ]
+  },
+ 
+  "cry": {
+    "title": "It’s Okay to Cry",
+    "description": "Crying is a way to show how we feel. Sometimes we cry when we’re sad, scared, or even happy. Sharing feelings helps us feel better and get support.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Childline – Talking About Feelings",
+        "url": "https://www.childline.org.uk/"
+      },
+      {
+        "label": "Sesame Street in Communities – Emotions",
+        "url": "https://sesamestreetincommunities.org/topics/emotions/"
+      },
+      {
+        "label": "KidsHealth – Understanding Emotions",
+        "url": "https://kidshealth.org/en/kids/feelings.html"
+      }
+    ]
+  },
+  "mad": {
+    "title": "Feeling Mad is Normal",
+    "description": "Getting mad or angry is a feeling everyone has. It’s important to learn how to express anger in safe ways and talk about what’s upsetting you.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Child Mind Institute – Managing Anger",
+        "url": "https://childmind.org/topics/concerns/anger/"
+      },
+      {
+        "label": "KidsHealth – Coping with Anger",
+        "url": "https://kidshealth.org/en/kids/anger.html"
+      },
+      {
+        "label": "Your Life Your Voice – Safe Ways to Cope",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "dead": {
+    "title": "Understanding Death",
+    "description": "Death means someone or something has stopped living. It can be hard to understand and feel sad about. Talking with someone you trust helps you cope with these feelings.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "KidsHealth – About Death",
+        "url": "https://kidshealth.org/en/kids/death.html"
+      },
+      {
+        "label": "Sesame Street in Communities – Saying Goodbye",
+        "url": "https://sesamestreetincommunities.org/topics/bereavement-grief-loss/"
+      },
+      {
+        "label": "Child Mind Institute – Coping with Loss",
+        "url": "https://childmind.org/article/helping-kids-cope-with-loss/"
+      }
+    ]
+  },
+  "evil": {
+    "title": "What Does Evil Mean?",
+    "description": "Evil means doing things that hurt others or are very wrong. It’s important to know how to be kind and make good choices instead.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Common Sense Media – Understanding Good and Bad",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "PBS Kids – Kindness and Respect",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Making Good Choices",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "monster": {
+    "title": "Imaginary Creatures That Scare Us",
+    "description": "Monsters are creatures from stories that can seem scary but aren’t real. They help us learn about fear and bravery in a safe way.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Sesame Street – Understanding Feelings",
+        "url": "https://sesamestreetincommunities.org/topics/fear/"
+      },
+      {
+        "label": "Child Mind Institute – Managing Fear",
+        "url": "https://childmind.org/topics/anxiety/"
+      },
+      {
+        "label": "PBS Kids – Being Brave",
+        "url": "https://pbskids.org/"
+      }
+    ]
+  },
+  "trap": {
+    "title": "Being Careful to Stay Safe",
+    "description": "A trap is something that can catch or hurt you if you’re not careful. Learning to spot traps helps you stay safe and make smart choices.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "NetSmartz – Online Safety",
+        "url": "https://www.missingkids.org/netsmartz/home"
+      },
+      {
+        "label": "Safe Kids Worldwide – Staying Safe",
+        "url": "https://www.safekids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Safety Tips",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+ 
+  "police": {
+    "title": "Helpers Who Keep Us Safe",
+    "description": "Police officers help protect people and keep communities safe. They work to make sure everyone follows rules and gets help when needed.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "PBS Kids – Who Are Police?",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "KidsHealth – Community Helpers",
+        "url": "https://kidshealth.org/"
+      },
+      {
+        "label": "Your Life Your Voice – When to Ask for Help",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  
+  "killer": {
+    "title": "Someone Who Hurts Others",
+    "description": "A killer is a person who hurts or harms others. It’s important to know that hurting others is wrong, and there are people who help keep us safe.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Common Sense Media – Understanding Safety",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "PBS Kids – Staying Safe",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Who to Trust",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  
+  "danger": {
+    "title": "When Something Might Hurt You",
+    "description": "Danger means there is a chance you or others could get hurt. It’s important to be careful and ask for help when you feel unsafe.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Safe Kids Worldwide – Staying Safe",
+        "url": "https://www.safekids.org/"
+      },
+      {
+        "label": "NetSmartz – Online Safety",
+        "url": "https://www.missingkids.org/netsmartz/home"
+      },
+      {
+        "label": "Your Life Your Voice – Safety Tips",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "kidnap": {
+    "title": "When Someone Is Taken Away",
+    "description": "Kidnap means someone is taken away without permission. It’s a serious thing, but there are helpers who work to keep everyone safe and find those who are missing.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "NetSmartz – Staying Safe",
+        "url": "https://www.missingkids.org/netsmartz/home"
+      },
+      {
+        "label": "Safe Secure Kids – Safety Rules",
+        "url": "https://www.safesecurekids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Help and Support",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+ 
+  "stab": {
+    "title": "When Someone is Hurt with Something Sharp",
+    "description": "Stab means using something sharp to hurt someone or something. It’s dangerous and wrong, and there are people who work to stop it and keep everyone safe.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "Safe Kids Worldwide – Staying Safe",
+        "url": "https://www.safekids.org/"
+      },
+      {
+        "label": "PBS Kids – Safety Rules",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Safety Help",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "break": {
+    "title": "When Something is Damaged",
+    "description": "Break means to damage or snap something so it’s not the same anymore. Being gentle and careful helps us keep things safe and working.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "PBS Kids – Learning to Care for Things",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Common Sense Media – Respecting Property",
+        "url": "https://www.commonsensemedia.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Making Good Choices",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  },
+  "smash": {
+    "title": "When Something is Broken Hard",
+    "description": "Smash means to break something with a lot of force. It can be loud and messy, so it’s best to be careful to avoid accidents.",
+    "image": "https://i.imgur.com/huhzdXJ.jpeg",
+    "resources": [
+      {
+        "label": "PBS Kids – Staying Safe",
+        "url": "https://pbskids.org/"
+      },
+      {
+        "label": "Safe Kids Worldwide – Preventing Accidents",
+        "url": "https://www.safekids.org/"
+      },
+      {
+        "label": "Your Life Your Voice – Making Safe Choices",
+        "url": "https://www.yourlifeyourvoice.org/"
+      }
+    ]
+  }
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
