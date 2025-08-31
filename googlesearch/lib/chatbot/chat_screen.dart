@@ -38,7 +38,7 @@ Future<void> sendMessage(String userMessage) async {
   final response = await http.post(
     url,
     headers: {
-      'Authorization': 'Bearer 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', // Replace with your API key
+      'Authorization': '', // Replace with your API key
       'Content-Type': 'application/json',
       'HTTP-Referer': 'https://example.com', 
       'X-Title': 'KidsBot' 
@@ -198,4 +198,5 @@ Future<void> sendMessage(String userMessage) async {
       ),
     );
   }
+
 }
